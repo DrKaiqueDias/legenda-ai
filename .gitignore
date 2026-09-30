@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.modelos/
+*.legendas/
+runs/
+*.mp3
+*.mp4
+*.wav
+*.mkv
+*.mov
+*.m4a
+.DS_Store
